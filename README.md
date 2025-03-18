@@ -47,7 +47,8 @@ Response:
     "read": true
   }
 ]
-3️⃣ Mark a Message as Read (PATCH)
+3) Mark a Message as Read (PATCH)
+
 Endpoint: PATCH /api/messages/:message_id/read
 
 Response:
